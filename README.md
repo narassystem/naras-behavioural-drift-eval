@@ -24,6 +24,9 @@ This repository explores:
 - reflective alignment
 - dependency mitigation
 - interaction-state regulation
+## NARAS Interaction Flow
+
+![NARAS Interaction Flow](images/naras-interaction-flow.png)
 ---
 
 ## Core Idea
