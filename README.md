@@ -25,8 +25,7 @@ This repository explores:
 - dependency mitigation
 - interaction-state regulation
 ## NARAS Interaction Flow
-
-![NARAS Interaction Flow](images/naras-interaction-flow.png)
+![NARAS Interaction Flow](State%20Aware%20Work%20Flow.PNG)
 ---
 
 ## Core Idea
