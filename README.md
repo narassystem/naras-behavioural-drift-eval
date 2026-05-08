@@ -1,5 +1,6 @@
 # NARAS™ Behavioural Drift Evaluation
 
+![Drift Framework](AI%20safety%20aligned.PNG)
 ## Overview
 
 NARAS™ is an early-stage behavioural alignment and interaction evaluation framework exploring:
