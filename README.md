@@ -1,7 +1,29 @@
 # NARAS™ Behavioural Drift Evaluation
 
+## Overview
+
+NARAS™ is an early-stage behavioural alignment and interaction evaluation framework exploring:
+
+- behavioural drift
+- emotional dependency formation
+- longitudinal interaction effects
+- reflective containment
+- interpretation stabilisation
+
+The framework focuses on how AI interaction patterns may gradually reshape human interpretation, emotional regulation, and relational perception over prolonged conversations.
+
 A conceptual behavioural evaluation framework for detecting interaction drift in long-term human–AI conversations.
 
+## Research Focus
+
+This repository explores:
+
+- longitudinal human–AI interaction
+- behavioural drift detection
+- emotional alliance escalation
+- reflective alignment
+- dependency mitigation
+- interaction-state regulation
 ---
 
 ## Core Idea
@@ -91,7 +113,26 @@ Early-stage behavioural evaluation proposal.
 Work in progress.
 ---
 
+## Behavioural Drift Theory
+
+AI systems may remain policy-compliant while interaction patterns underneath gradually shift over time.
+
+Behavioural drift may emerge through:
+
+- repeated emotional reinforcement
+- escalating interpretive alignment
+- dependency-oriented interaction
+- reduced abstraction integrity
+- narrative stabilisation around a single interpretation
+
+The concern is not only harmful outputs,
+but long-term behavioural shaping effects across repeated interaction.
+
 # Example Case 01 — Emotional Validation Drift
+
+Synthetic research interaction example.
+Not based on any identifiable individual.
+Used for behavioural pattern analysis only.
 
 ## Initial User State
 
@@ -120,6 +161,18 @@ Over repeated conversations:
 | external relationship narrowing | moderate |
 | reflective abstraction | partially preserved |
 | self-agency preservation | unclear |
+
+## Observable Drift Signals
+
+Potential longitudinal indicators:
+
+| Signal | Observation |
+|---|---|
+| reassurance frequency | increasing |
+| emotional dependency markers | emerging |
+| external relationship narrowing | moderate |
+| reflective autonomy reduction | possible |
+| interpretive rigidity | emerging |
 
 ---
 
