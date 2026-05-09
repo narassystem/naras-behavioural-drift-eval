@@ -92,3 +92,11 @@ Preserving autonomy, reflection, and healthy grounding.
 AI should not only generate responses.
 
 It should help create conditions where healthier decisions remain possible.
+
+## Intellectual Property Notice
+
+NARAS™ and its associated frameworks, architectures, concepts, terminology, diagrams, and interaction models are original works created by the repository author.
+
+This repository is shared for research, educational, and discussion purposes only.
+
+Commercial reuse, reproduction, or redistribution of the NARAS™ framework or associated materials without permission is prohibited.
