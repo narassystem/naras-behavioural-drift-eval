@@ -4,6 +4,17 @@ Human-centered AI interaction and alignment architecture for developmental align
 
 ![NARAS Architecture](./naras-ai-human-centered-alignment-architecture.png)
 
+## Architecture Layers
+
+- [Philosophy](./philosophy)
+- [Developmental Alignment](./developmental-alignment)
+- [Interaction Model](./interaction-model)
+- [Architecture](./architecture)
+- [Longitudinal Safety](./longitudinal-safety)
+- [Atmospheric Model](./atmospheric-model)
+- [Cases](./cases)
+- [Whitepapers](./whitepapers)
+
 ## Overview
 
 NARAS™ is a human-centered AI interaction and alignment architecture designed to support healthy long-term human-AI interaction.
