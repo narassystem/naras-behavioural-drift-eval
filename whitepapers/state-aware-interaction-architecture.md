@@ -1,4 +1,4 @@
-![State-Aware Interaction Architecture](state-aware-interaction-architecture-diagram.png)
+![State-Aware Interaction Architecture](../state-aware-interaction-architecture-diagram.png)
 
 State-Aware Interaction Architecture
 
