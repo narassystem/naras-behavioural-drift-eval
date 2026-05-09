@@ -1,12 +1,12 @@
-![State-Aware Interaction Architecture](../state-aware-interaction-architecture-diagram.png)
-
-State-Aware Interaction Architecture
+# State-Aware Interaction Architecture
 
 A framework for aligning AI systems with real-world human states
 
-⸻
+![State-Aware Interaction Architecture](../state-aware-interaction-architecture-diagram.png)
 
-Overview
+---
+
+## Overview
 
 
 
@@ -30,7 +30,7 @@ State-Aware Interaction Architecture addresses this gap by introducing a structu
 
 
 
-Problem Definition
+## Problem Definition
 
 
 
@@ -67,7 +67,7 @@ Correct answers delivered at the wrong moment can still produce harmful outcomes
 
 
 
-Core Principle
+## Core Principle
 
 
 
@@ -80,7 +80,7 @@ They should respond to user state.
 
 
 
-Architecture Layers
+## Architecture Layers
 
 
 
@@ -209,7 +209,7 @@ Optimise for:
 
 
 
-Key Insight
+## Key Insight
 
 
 
@@ -231,7 +231,7 @@ It is achieved by recognising:
 
 
 
-Implications
+## Implications
 
 
 
@@ -254,7 +254,7 @@ This is particularly critical in high-ambiguity or high-risk scenarios, where us
 
 
 
-Conclusion
+## Conclusion
 
 
 
