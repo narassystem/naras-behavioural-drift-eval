@@ -1,5 +1,5 @@
 # NARAS™ Behavioural Drift Evaluation
-![NARAS Architecture](naras-ai-human-centered-alignment-architecture.png)
+![NARAS Architecture](./naras-ai-human-centered-alignment-architecture.png)
 
 ## Overview
 
