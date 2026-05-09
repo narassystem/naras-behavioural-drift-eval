@@ -1,4 +1,35 @@
 # NARAS™ Behavioural Drift Evaluation
+![NARAS Architecture](naras-ai-human-centered-alignment-architecture.png)
+
+## Overview
+
+NARAS™ is a human-centered AI interaction and alignment architecture designed to support healthy long-term human-AI interaction.
+
+The system combines:
+
+- developmental alignment
+- state-aware interaction
+- longitudinal safety
+- interaction trajectory monitoring
+- atmospheric stabilisation
+- behavioural drift evaluation
+
+NARAS approaches AI not only as a response engine, but as an interaction environment capable of shaping interpretation, emotion, and relational direction over time.
+
+## Overview
+
+NARAS™ is a human-centered AI interaction and alignment architecture designed to support healthy long-term human-AI interaction.
+
+The system combines:
+
+- developmental alignment
+- state-aware interaction
+- longitudinal safety
+- interaction trajectory monitoring
+- atmospheric stabilisation
+- behavioural drift evaluation
+
+NARAS approaches AI not only as a response engine, but as an interaction environment capable of shaping interpretation, emotion, and relational direction over time.
 
 A behavioural evaluation framework for detecting interaction drift in long-term human-AI conversations.
 
