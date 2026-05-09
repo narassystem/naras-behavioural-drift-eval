@@ -1,14 +1,10 @@
+![State-Aware Interaction Architecture](../state-aware-interaction-architecture-diagram.png)
+
 State-Aware Interaction Architecture
-
-
 
 A framework for aligning AI systems with real-world human states
 
-
-
 ⸻
-
-
 
 Overview
 
@@ -275,3 +271,5 @@ State-Aware Interaction Architecture proposes a different approach:
 
 
 Align first. Respond second.
+Add architecture diagram to whitepaper
+
