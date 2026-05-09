@@ -1,4 +1,6 @@
 # NARAS™ Behavioural Drift Evaluation
+
+Human-centered AI interaction and alignment architecture for healthy long-term human-AI interaction.
 ![NARAS Architecture](./naras-ai-human-centered-alignment-architecture.png)
 
 ## Overview
