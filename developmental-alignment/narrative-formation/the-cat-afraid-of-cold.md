@@ -80,7 +80,6 @@ These principles are increasingly relevant to AI systems involving:
 AI systems that fail to recognise vulnerability signals may unintentionally increase emotional disconnection or reduce user trust.
 
 ---
-
 ## Key Insight
 
 Empathy often begins when vulnerability becomes emotionally understandable.
