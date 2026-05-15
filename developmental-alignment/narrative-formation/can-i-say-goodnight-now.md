@@ -18,7 +18,6 @@ The interaction reflects a familiar human pattern:
 - difficulty transitioning into rest
 
 Rather than forcing behavioural correction, the story gradually guides emotional regulation through relational interaction.
-
 ---
 
 ## Developmental Signals
