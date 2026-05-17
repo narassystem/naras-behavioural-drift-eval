@@ -42,6 +42,23 @@ Focus:
 
 ---
 
+## 3. Human Development Alignment
+
+Human developmental formation, emotional growth, reflective development, and interpretive shaping.
+
+Focus:
+
+- cognitive development
+- emotional regulation
+- social formation
+- reflective awareness
+- meaning making
+- interpretive development
+
+→ Folder: [/developmental-alignment](./developmental-alignment)
+
+---
+
 ## 4. Longitudinal Safety
 
 Long-term interaction safety, behavioural drift detection, dependency monitoring, and trajectory evaluation.
