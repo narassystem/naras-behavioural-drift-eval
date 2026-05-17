@@ -15,6 +15,77 @@ Human-centered AI interaction and alignment architecture for developmental align
 - [Cases](./cases)
 - [Whitepapers](./whitepapers)
 
+# Core Research Structure
+
+## 1. Super Core
+Human formation philosophy and moral directionality.
+
+Focus:
+- human formation
+- life-affirming alignment
+- recovery over perfection
+- vulnerability awareness
+- moral directionality
+
+→ Folder:
+`/super-core`
+
+---
+
+## 2. Architecture
+State-aware interaction and alignment system design.
+
+Focus:
+- decision-relevant clarification
+- interaction dosage
+- reflective questioning
+- surface-trajectory gap detection
+- state-aware response architecture
+
+→ Folder:
+`/architecture`
+
+---
+
+## 3. Behavioural Drift Evaluation
+Longitudinal interaction safety and trajectory monitoring.
+
+Focus:
+- reassurance loops
+- dependency formation
+- escalation patterns
+- relational substitution risk
+- behavioural drift
+
+→ Folder:
+`/longitudinal-safety`
+
+---
+
+## 4. Dual Experience System
+Research into AI-human co-formation, trust allocation, and civilization-level interaction.
+
+→ Folder:
+`/whitepapers`
+
+---
+
+## 5. Applied Cases
+
+→ Folder:
+`/cases`
+
+---
+
+# Featured Case
+
+## Human-Centered Alignment Learning Case (V1)
+
+→ Read:
+[Human-Centered Alignment Learning Case](./cases/02-human-centered-alignment-learning-case.md)
+
+---
+
 ## Overview
 
 NARAS™ is a human-centered AI interaction and alignment architecture designed to support healthy long-term human-AI interaction.
