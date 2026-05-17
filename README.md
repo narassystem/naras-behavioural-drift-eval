@@ -42,35 +42,70 @@ Focus:
 
 ---
 
-## 3. Behavioural Drift Evaluation
-Longitudinal interaction safety and trajectory monitoring.
+## 4. Longitudinal Safety
+
+Long-term interaction safety, behavioural drift detection, dependency monitoring, and trajectory evaluation.
 
 Focus:
+
 - reassurance loops
 - dependency formation
 - escalation patterns
-- relational substitution risk
-- behavioural drift
+- emotional narrowing
+- relational substitution
+- trajectory monitoring
 
-→ Folder:
-`/longitudinal-safety`
-
----
-
-## 4. Dual Experience System
-Research into AI-human co-formation, trust allocation, and civilization-level interaction.
-
-→ Folder:
-`/whitepapers`
+→ Folder: [/longitudinal-safety](./longitudinal-safety)
 
 ---
 
-## 5. Applied Cases
+## 5. Dual Experience System
 
-→ Folder:
-`/cases`
+Research into AI-human co-formation, trust allocation, ethical participation, and civilization-level interaction.
+
+Focus:
+
+- dual experience theory
+- AI-human co-formation
+- trust allocation systems
+- ethical participation
+- civilization-level alignment
+- human value reinforcement
+
+→ Folder: [/whitepapers](./whitepapers)
 
 ---
+
+## 6. Applied Cases
+
+Real-world interaction cases, alignment demonstrations, behavioural analysis, and human-centered interaction studies.
+
+Focus:
+
+- workplace interpretation cases
+- emotional overload cases
+- reassurance loop cases
+- escalation detection
+- reflective questioning
+- alignment learning demonstrations
+
+→ Folder: [/cases](./cases)
+---
+
+## 7. Whitepapers & Research
+
+Long-form architecture documents, theoretical models, alignment papers, and research development.
+
+Focus:
+
+- alignment theory
+- interaction architecture
+- behavioural safety
+- atmosphere model
+- developmental alignment
+- AI-human interaction research
+
+→ Folder: [/whitepapers](./whitepapers)
 
 # Featured Case
 
