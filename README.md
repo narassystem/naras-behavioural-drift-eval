@@ -5,15 +5,10 @@ Human-centered AI interaction and alignment architecture for developmental align
 ![NARAS Architecture](./naras-ai-human-centered-alignment-architecture.png)
 
 ## Architecture Layers
+# Research Structure
 
-- [Philosophy](./philosophy)
-- [Developmental Alignment](./developmental-alignment)
-- [Interaction Model](./interaction-model)
-- [Architecture](./architecture)
-- [Longitudinal Safety](./longitudinal-safety)
-- [Atmospheric Model](./atmospheric-model)
-- [Cases](./cases)
-- [Whitepapers](./whitepapers)
+## 1. Super Core Philosophy
+...
 
 # Core Research Structure
 
