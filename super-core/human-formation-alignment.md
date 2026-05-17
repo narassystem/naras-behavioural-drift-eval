@@ -17,3 +17,18 @@ They are formed through repeated experiences, narratives, emotional reinforcemen
 Therefore:
 
 Every AI interaction participates, however slightly, in human formation.
+
+## Related Cases
+
+### Human-Centered Alignment Learning Case (V1)
+
+A live interaction case exploring how AI interaction participates in human formation through:
+
+- timing awareness
+- relational trajectory sensing
+- interaction dosage
+- atmosphere recognition
+- formation-oriented dialogue
+
+→ Read the case study:  
+[Human-Centered Alignment Learning Case](../cases/02-human-centered-alignment-learning-case.md)
