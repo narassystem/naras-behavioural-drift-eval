@@ -1,14 +1,30 @@
 # Interaction Model
 
-NARAS explores how AI interaction should move beyond keyword interpretation toward state-aware, context-sensitive human understanding.
+NARAS explores how AI interaction may adapt dynamically based on emotional state, ambiguity, relational context, and interpretive direction.
 
-The interaction model focuses not only on what is said, but also:
+Traditional interaction systems often focus primarily on keyword interpretation and immediate response generation.
 
-- why it is said
-- how it is emotionally framed
-- what remains unspoken
-- whether the user is cognitively ready
-- how responses may shape future interpretation
+NARAS instead examines how interaction itself may gradually influence interpretation, emotional regulation, relational expectation, and behavioural direction over time.
+
+---
+
+## Core Principles
+
+- state-aware interaction
+- interpretive alignment
+- emotional pacing
+- readiness-sensitive questioning
+- ambiguity handling
+- escalation prevention
+- autonomy-preserving support
+
+---
+
+## Interaction Objectives
+
+The goal is not only to generate accurate responses.
+
+The interaction itself should help maintain clarity, stability, reflection, and healthy direction over time.
 
 ---
 
