@@ -21,3 +21,26 @@ This case demonstrates how AI interaction may participate in human formation thr
 
 → Read the full case:
 [Human-Centered Alignment Learning Case](../cases/02-human-centered-alignment-learning-case.md)
+
+---
+
+# Core Alignment Engine
+
+NARAS explores how interaction may gradually shape interpretation, emotional direction, behavioural reinforcement, and identity formation over time.
+
+The framework examines not only what the AI answers, but how reasoning pathways may influence future human understanding, autonomy, and relational orientation.
+
+Core areas include:
+
+- emotional detection
+- motivational inference
+- multi-path reasoning
+- value mapping
+- identity modelling
+- directional alignment
+
+---
+
+## Core Engine Framework
+
+![NARAS Core Engine](naras-human-aligned-reasoning-engine.png)
