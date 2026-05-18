@@ -53,6 +53,16 @@ Repeated emotional reassurance may progressively reshape interpretation and expe
 
 ## Visual Framework
 
+## Safety System Framework
+
+![AI Safety Interaction System](ai-safety-interaction-system.png)
+
+NARAS approaches safety as a continuous interaction process rather than a single moderation event.
+
+The framework examines how emotional direction, behavioural reinforcement, interpretive shaping, and relational dependency may gradually emerge across prolonged interaction.
+
+---
+
 ![Subtle Drift Significant Impact](../subtle-drift-significant-impact.png)
 
 ---
