@@ -1,18 +1,43 @@
 # Architecture
 
-NARAS is a state-aware interaction and alignment architecture designed to support healthier long-term human-AI interaction.
+NARAS explores how AI interaction systems may adapt responses based on human state, interpretive readiness, emotional direction, and safety trajectory.
 
-The architecture combines:
+Traditional AI systems often optimize for immediate response quality.
 
-- interaction understanding
-- state detection
-- response adaptation
-- readiness evaluation
-- longitudinal safety awareness
-- alignment-oriented interaction flow
+NARAS instead examines how interaction itself may gradually shape interpretation, emotional regulation, behavioural direction, and relational outcomes over time.
 
 ---
 
+## Visual Flow
+
+![State Aware Interaction Flow](../state-aware-interaction-flow.png)
+
+---
+
+## Core Layers
+
+### Alignment
+Reduce resistance and establish relational stability.
+
+### Reflection
+Surface emotional meaning, uncertainty, and hidden concerns.
+
+### State Detection
+Assess cognitive load, emotional state, readiness, ambiguity, and risk.
+
+### Question Strategy
+Determine pacing, clarification depth, and exploration direction.
+
+### Readiness Check
+Evaluate whether the user is emotionally or cognitively ready for deeper intervention.
+
+### Response Adjustment
+Adapt tone, structure, timing, and interaction depth.
+
+### Safety Integration
+Monitor escalation, dependency formation, behavioural drift, and relational risk.
+
+---
 ## Core Architecture Layers
 
 ### 1. Input Layer
