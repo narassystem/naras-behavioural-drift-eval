@@ -125,6 +125,15 @@ Topics include:
 
 → Explore: [/cases](./cases)
 
+## Featured Case
+
+### Same Words, Different Meaning
+
+How meaning changes through relationship, context, emotional state, and culture.
+
+→ Read:
+[Same Words, Different Meaning](./01-same-words-different-meaning.md)
+
 ---
 
 ## 7. Whitepapers & Research
