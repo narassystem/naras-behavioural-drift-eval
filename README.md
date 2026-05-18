@@ -1,76 +1,49 @@
 # NARAS™ AI-Human Centered Alignment Architecture
 
-Human-centered AI interaction and alignment architecture for developmental alignment, longitudinal safety, and healthy interaction environments.
+Human-centered AI interaction and alignment research focused on:
+
+- state-aware interaction
+- longitudinal safety
+- behavioural drift evaluation
+- developmental alignment
+- interpretive reasoning
+- human-centered AI systems
+
+---
 
 ![NARAS Architecture](./naras-ai-human-centered-alignment-architecture.png)
 
-## Architecture Layers
-# Research Structure
-
-## 1. Super Core Philosophy
-...
+---
 
 # Core Research Structure
 
-## 1. Super Core
-Human formation philosophy and moral directionality.
+## 1. Super Core Philosophy
 
-Focus:
-- human formation
-- life-affirming alignment
-- recovery over perfection
-- vulnerability awareness
-- moral directionality
+Human formation, moral directionality, vulnerability awareness, and life-affirming alignment.
 
-→ Folder:
-`/super-core`
+→ Folder: [/super-core](./super-core)
 
 ---
 
-## 2. Architecture
-State-aware interaction and alignment system design.
+## 2. Human Development Alignment
 
-Focus:
-- decision-relevant clarification
-- interaction dosage
-- reflective questioning
-- surface-trajectory gap detection
-- state-aware response architecture
-
-→ Folder:
-`/architecture`
-
----
-
-## 3. Human Development Alignment
-
-Human developmental formation, emotional growth, reflective development, and interpretive shaping.
-
-Focus:
-
-- cognitive development
-- emotional regulation
-- social formation
-- reflective awareness
-- meaning making
-- interpretive development
+Developmental principles behind healthy human-AI interaction.
 
 → Folder: [/developmental-alignment](./developmental-alignment)
 
 ---
 
+## 3. Interaction Architecture
+
+State-aware response systems, interaction design, interpretive readiness, and contextual alignment.
+
+→ Folder: [/architecture](./architecture)
+
+---
+
 ## 4. Longitudinal Safety
 
-Long-term interaction safety, behavioural drift detection, dependency monitoring, and trajectory evaluation.
-
-Focus:
-
-- reassurance loops
-- dependency formation
-- escalation patterns
-- emotional narrowing
-- relational substitution
-- trajectory monitoring
+Behavioural drift detection, dependency monitoring, escalation patterns, and trajectory evaluation.
 
 → Folder: [/longitudinal-safety](./longitudinal-safety)
 
@@ -78,78 +51,38 @@ Focus:
 
 ## 5. Dual Experience System
 
-Research into AI-human co-formation, trust allocation, ethical participation, and civilization-level interaction.
+Human-AI co-formation, interaction atmosphere, trust shaping, and relational dynamics.
 
-Focus:
-
-- dual experience theory
-- AI-human co-formation
-- trust allocation systems
-- ethical participation
-- civilization-level alignment
-- human value reinforcement
-
-→ Folder: [/whitepapers](./whitepapers)
+→ Folder: [/atmospheric-model](./atmospheric-model)
 
 ---
 
 ## 6. Applied Cases
 
-Real-world interaction cases, alignment demonstrations, behavioural analysis, and human-centered interaction studies.
-
-Focus:
-
-- workplace interpretation cases
-- emotional overload cases
-- reassurance loop cases
-- escalation detection
-- reflective questioning
-- alignment learning demonstrations
+Real-world interaction examples, behavioural drift cases, and alignment observations.
 
 → Folder: [/cases](./cases)
+
 ---
 
 ## 7. Whitepapers & Research
 
-Long-form architecture documents, theoretical models, alignment papers, and research development.
-
-Focus:
-
-- alignment theory
-- interaction architecture
-- behavioural safety
-- atmosphere model
-- developmental alignment
-- AI-human interaction research
+Public primers, architecture overviews, and conceptual research papers.
 
 → Folder: [/whitepapers](./whitepapers)
 
-# Featured Case
+---
 
-## Human-Centered Alignment Learning Case (V1)
+# Featured Reading
 
-→ Read:
-[Human-Centered Alignment Learning Case](./cases/02-human-centered-alignment-learning-case.md)
+- [Public Primer](./whitepapers/public-primer.md)
 
 ---
 
-## Overview
+# Research Direction
 
-NARAS™ is a human-centered AI interaction and alignment architecture designed to support healthy long-term human-AI interaction.
-
-The system combines:
-
-- developmental alignment
-- state-aware interaction
-- longitudinal safety
-- interaction trajectory monitoring
-- atmospheric stabilisation
-- behavioural drift evaluation
-
-NARAS approaches AI not only as a response engine, but as an interaction environment capable of shaping interpretation, emotion, and relational direction over time.
-
-A behavioural evaluation framework for detecting interaction drift in long-term human-AI conversations.
-
+NARAS explores AI interaction not only as response generation,
+but as a long-term interpretive and developmental environment.
 ---
 
 ## Core Thesis
