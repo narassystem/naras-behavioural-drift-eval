@@ -1,5 +1,9 @@
 # NARAS™ Public Primer
 
+> AI safety is not only about preventing harmful outputs.
+>
+> It is also about understanding how interaction shapes interpretation, emotion, behaviour, and human direction over time.
+
 ## What is NARAS?
 
 NARAS™ (Narrative AI Reasoning & Alignment System) is a human-centered AI interaction and alignment framework focused on:
@@ -25,6 +29,25 @@ Rather than viewing AI safety only as rule enforcement, NARAS examines interacti
 ---
 
 # Core Research Areas
+
+## Why Existing Systems Struggle
+
+Many AI systems primarily evaluate:
+
+- policy violation
+- explicit harmful language
+- single-turn response safety
+
+However, many real interaction risks emerge gradually through:
+
+- emotional escalation
+- interpretive narrowing
+- dependency reinforcement
+- reassurance loops
+- relational substitution
+- behavioural normalization
+
+These patterns may remain technically compliant while still shifting long-term human outcomes.
 
 ## 1. Human-Centered Alignment
 
