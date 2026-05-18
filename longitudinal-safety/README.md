@@ -63,5 +63,3 @@ Repeated emotional reassurance may progressively reshape interpretation and expe
 - [Architecture](../architecture)
 - [Cases](../cases)
 - [Whitepapers](../whitepapers)
-
-  ![Subtle Drift Significant Impact](../subtle-drift-significant-impact.png)
