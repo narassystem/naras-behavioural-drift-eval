@@ -33,4 +33,4 @@ Human-centered alignment therefore requires evaluating not only correctness, but
 
 ## Visual Philosophy Framework
 
-![CEO Alignment Framework](naras-human-centered-alignment-learning-case.png)
+![CEO Alignment Framework](human-centered-alignment-learning-case.png)
