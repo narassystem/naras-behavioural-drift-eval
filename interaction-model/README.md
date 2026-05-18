@@ -59,8 +59,7 @@ The challenge is not only generating accurate responses, but generating response
 ---
 
 ## Visual Framework
-
-![Same Words Different Meaning](../same-words-different-meaning.png)
+![Same Words Different Meaning](../same-words-different-meaning.jpeg)
 
 ---
 
