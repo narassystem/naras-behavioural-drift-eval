@@ -55,7 +55,7 @@ Repeated emotional reassurance may progressively reshape interpretation and expe
 
 ## Safety System Framework
 
-![AI Safety Interaction System](ai-safety-interaction-system.png)
+![AI Safety Interaction System](ai-safety-is-an-interaction-system.jpg)
 
 NARAS approaches safety as a continuous interaction process rather than a single moderation event.
 
