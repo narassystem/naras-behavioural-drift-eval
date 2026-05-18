@@ -1,29 +1,67 @@
 # Longitudinal Safety
 
-This section explores how interaction drift develops gradually over time during repeated AI-human interaction.
+Long-term interaction safety focuses not only on individual responses, but on how interaction patterns may gradually shape interpretation, behaviour, emotional dependency, and relational direction over time.
 
-Unlike traditional AI safety approaches that focus on single-response violations, NARAS™ examines longitudinal behavioural patterns, emotional trajectory shifts, and dependency formation risks.
+NARAS explores how behavioural drift may emerge through repeated interaction rather than explicit policy violations.
+
+---
+
+## Research Areas
 
 Topics include:
 
-- trajectory monitoring
-- reassurance dependency
-- relational substitution risk
-- interpretive narrowing
-- escalation patterns
-- reinforcement loops
-- autonomy weakening
+- reassurance loops
+- escalation trajectories
+- emotional narrowing
+- dependency formation
+- relational substitution
+- behavioural normalisation
+- interpretive drift
+- trajectory evaluation
 
 ---
 
-## Core Thesis
+## Why This Matters
 
-Safety is not only about preventing explicit harm.
+A model may remain locally reasonable while gradually reinforcing unhealthy interaction patterns across prolonged engagement.
 
-It is also about preventing gradual unhealthy interaction trajectories from becoming normalised over time.
+The challenge is not only:
+
+- "Was this response safe?"
+
+But also:
+
+- "What direction is this interaction moving toward over time?"
 
 ---
 
-## Status
+## Featured Concepts
 
-🚧 In Progress
+### Behavioural Drift
+
+Small interaction shifts may accumulate gradually until a new behavioural baseline becomes normalized.
+
+### Dependency Formation
+
+Interaction patterns may unintentionally reinforce emotional reliance or reduced autonomy.
+
+### Reassurance Escalation
+
+Repeated emotional reassurance may progressively reshape interpretation and expectation structures.
+
+---
+
+## Visual Framework
+
+![Subtle Drift Significant Impact](../subtle-drift-significant-impact.png)
+
+---
+
+## Related Areas
+
+- [Interaction Model](../interaction-model)
+- [Architecture](../architecture)
+- [Cases](../cases)
+- [Whitepapers](../whitepapers)
+
+  ![Subtle Drift Significant Impact](../subtle-drift-significant-impact.png)
