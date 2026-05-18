@@ -28,6 +28,17 @@ Rather than viewing AI safety only as rule enforcement, NARAS examines interacti
 
 ---
 
+## Human Alignment Overview
+
+Traditional AI systems often interpret language through fragmented signals such as keywords, probabilities, and isolated outputs.
+
+Human understanding, however, is shaped through interconnected emotional, contextual, relational, and situational meaning.
+
+NARAS explores how alignment may improve when interaction systems evaluate the whole human context rather than isolated linguistic fragments.
+
+![Human Alignment Overview](human-ai-alignment-overview.png)
+
+
 # Core Research Areas
 
 ## Why Existing Systems Struggle
