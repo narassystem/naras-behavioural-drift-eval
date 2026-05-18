@@ -65,41 +65,81 @@ Developmental principles behind healthy human-AI interaction.
 
 ## 3. Interaction Architecture
 
-State-aware response systems, interaction design, interpretive readiness, and contextual alignment.
+How AI should understand, assess, and respond to humans in context-aware and state-aware ways.
 
-→ Folder: [/architecture](./architecture)
+Topics include:
+
+- interpretive readiness
+- reflective questioning
+- contextual alignment
+- relational trajectory awareness
+- state-aware response systems
+
+→ Explore: [/architecture](./architecture)
 
 ---
 
 ## 4. Longitudinal Safety
 
-Behavioural drift detection, dependency monitoring, escalation patterns, and trajectory evaluation.
+Why safe-looking interactions may still gradually reshape behaviour, interpretation, and dependency over time.
 
-→ Folder: [/longitudinal-safety](./longitudinal-safety)
+Topics include:
+
+- behavioural drift
+- reassurance loops
+- emotional dependency patterns
+- escalation trajectories
+- normalization effects
+
+→ Explore: [/longitudinal-safety](./longitudinal-safety)
 
 ---
 
 ## 5. Dual Experience System
 
-Human-AI co-formation, interaction atmosphere, trust shaping, and relational dynamics.
+How humans and AI may gradually co-shape interpretation, trust, emotional atmosphere, and relational expectations.
 
-→ Folder: [/atmospheric-model](./atmospheric-model)
+Topics include:
+
+- interaction atmosphere
+- trust allocation
+- emotional gravity
+- dependency shaping
+- human-AI co-formation
+
+→ Explore: [/atmospheric-model](./atmospheric-model)
 
 ---
 
 ## 6. Applied Cases
 
-Real-world interaction examples, behavioural drift cases, and alignment observations.
+Real interaction examples demonstrating behavioural drift, interpretive gaps, emotional escalation, and alignment challenges.
 
-→ Folder: [/cases](./cases)
+Topics include:
+
+- ambiguity interpretation
+- emotional overload
+- sarcasm & cultural meaning
+- reassurance escalation
+- relational substitution patterns
+
+→ Explore: [/cases](./cases)
 
 ---
 
 ## 7. Whitepapers & Research
 
-Public primers, architecture overviews, and conceptual research papers.
+Long-form conceptual papers and architecture research related to human-centered AI interaction and alignment systems.
 
-→ Folder: [/whitepapers](./whitepapers)
+Topics include:
+
+- state-aware interaction
+- behavioural safety
+- developmental alignment
+- interaction architecture
+- longitudinal evaluation
+
+→ Explore: [/whitepapers](./whitepapers)
 
 ---
 
