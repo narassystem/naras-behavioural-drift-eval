@@ -54,7 +54,7 @@ This creates interpretive gaps between AI evaluation and human understanding.
 ## Multi-Layer Communication Understanding
 
 
-## NARAS Interpretation Layers
+### NARAS Interpretation Layers
 
 NARAS evaluates interaction through multiple layers:
 
