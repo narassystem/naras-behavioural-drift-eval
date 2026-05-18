@@ -51,6 +51,9 @@ This creates interpretive gaps between AI evaluation and human understanding.
 
 ---
 
+## Multi-Layer Communication Understanding
+
+
 ## NARAS Interpretation Layers
 
 NARAS evaluates interaction through multiple layers:
@@ -78,3 +81,4 @@ Misinterpretation may lead to:
 
 NARAS proposes that alignment should evaluate not only language,
 but also interpretive direction and interaction context.
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/e5f49a8f-c974-4208-a091-9cf32226b778" />
