@@ -92,7 +92,7 @@ The goal is to support healthier human interpretation, reflection, autonomy, and
 
 ---
 
-## Visual Framework
+## Visual Flow
 
 ![State Aware Interaction Flow](../state-aware-interaction-flow.png)
 
