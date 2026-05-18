@@ -119,7 +119,7 @@ The goal is to support healthier human interpretation, reflection, autonomy, and
 
 ## Visual Flow
 
-![State Aware Interaction Flow](../state-aware-interaction-flow.png)
+![NARAS AI Interaction System Overview](naras-ai-interaction-system-overview.png)
 
 ---
 
