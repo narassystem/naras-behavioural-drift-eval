@@ -43,6 +43,16 @@ Topics include:
 
 ---
 
+## Interaction Layer
+
+![Interaction Layer](how-ai-should-respond-interaction-layer.png)
+
+This interaction layer explores how AI systems should respond based on human state, contextual risk, interpretive readiness, and long-term interaction direction.
+
+Rather than optimizing only for immediate answers, the model focuses on support, stabilisation, clarification, and responsible interaction pacing.
+
+---
+
 ## Multi-Layer Interpretation
 
 NARAS proposes that human communication operates across multiple layers:
