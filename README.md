@@ -13,6 +13,36 @@ Human-centered AI interaction and alignment research focused on:
 
 ![NARAS Architecture](./naras-ai-human-centered-alignment-architecture.png)
 
+## Start Here
+
+If you are new to NARAS™, begin with:
+
+1. Public Primer  
+2. State-Aware Interaction Architecture  
+3. Human-Centered Alignment Learning Case  
+4. Behavioural Drift & Longitudinal Safety Concepts
+
+---
+
+### Recommended Reading Paths
+
+#### For AI Safety / Alignment Researchers
+- longitudinal safety
+- behavioural drift
+- trajectory evaluation
+- interaction-aware safety
+
+#### For Conversation AI / UX Designers
+- interpretive readiness
+- reflective questioning
+- state-aware response architecture
+- interaction dosage
+
+#### For Human-Centered AI Research
+- developmental alignment
+- emotional trajectory
+- relational interpretation
+- atmosphere model
 ---
 
 # Core Research Structure
