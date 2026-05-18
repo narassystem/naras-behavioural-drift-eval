@@ -45,7 +45,11 @@ Topics include:
 
 ## Interaction Layer
 
-![Interaction Layer](how-ai-should-respond-interaction-layer.png)
+![Interaction Layer](---
+
+## Interaction Layer
+
+![Interaction Layer](responsible-ai-response-flow.png)
 
 This interaction layer explores how AI systems should respond based on human state, contextual risk, interpretive readiness, and long-term interaction direction.
 
