@@ -1,12 +1,12 @@
-# NARAS™ AI-Human Centered Alignment Architecture
+NARAS™ explores how AI interaction may gradually shape
+human interpretation, emotional direction, and behavioural trajectories over time.
 
-Human-centered AI interaction and alignment research focused on:
+This repository focuses on:
 
 - state-aware interaction
+- behavioural drift
 - longitudinal safety
-- behavioural drift evaluation
-- developmental alignment
-- interpretive reasoning
+- interpretive alignment
 - human-centered AI systems
 
 ---
