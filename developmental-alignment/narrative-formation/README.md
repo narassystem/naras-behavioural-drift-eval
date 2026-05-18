@@ -2,6 +2,27 @@
 
 These studies explore how guided storytelling, emotional interpretation, and interactive narrative structures influence human meaning-making, emotional regulation, reflective thinking, and social understanding during early development.
 
+## Why Narrative Matters
+
+Human development is not formed through instruction alone.
+
+Meaning is often formed through:
+- stories
+- emotional participation
+- symbolic interpretation
+- role identification
+- reflective questioning
+- repeated narrative exposure
+
+Narrative interaction shapes:
+- emotional regulation
+- moral interpretation
+- relational understanding
+- identity formation
+- behavioural direction
+
+---
+
 Before AI alignment became widely discussed, these narrative interaction approaches were used in educational and developmental contexts to support:
 
 - emotional processing
@@ -12,6 +33,20 @@ Before AI alignment became widely discussed, these narrative interaction approac
 - meaning formation
 
 The NARAS™ framework later expanded these principles into human-AI interaction and longitudinal alignment research.
+
+---
+
+## Developmental Alignment Relevance
+
+These narrative interaction studies may also contribute to future research in:
+
+- human-centered AI alignment
+- emotional trajectory awareness
+- reflective interaction systems
+- behavioural reinforcement detection
+- meaning-sensitive communication
+- long-term interaction safety
+- developmental AI interaction models
 
 ---
 
