@@ -10,7 +10,7 @@ NARAS instead examines how interaction itself may gradually shape interpretation
 
 ## Visual Flow
 
-![State Aware Interaction Flow](../state-aware-interaction-flow.png)
+![NARAS AI Interaction System Overview](naras-ai-interaction-system-overview.png)
 
 ---
 
@@ -119,7 +119,7 @@ The goal is to support healthier human interpretation, reflection, autonomy, and
 
 ## Visual Flow
 
-![NARAS AI Interaction System Overview](naras-ai-interaction-system-overview.png)
+![State Aware Interaction Flow](../state-aware-interaction-flow.png)
 
 ---
 
