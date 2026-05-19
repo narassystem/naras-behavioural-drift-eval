@@ -1,5 +1,3 @@
-# the-new-years-reunion.md
-
 # The New Year's Reunion
 
 ## Family Continuity, Ritual Belonging, and Intergenerational Emotional Connection Study
