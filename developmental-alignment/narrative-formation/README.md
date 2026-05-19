@@ -36,6 +36,20 @@ The NARAS™ framework later expanded these principles into human-AI interaction
 
 ---
 
+# Dataset Navigation
+
+Explore the narrative formation dataset through thematic pathways:
+
+- emotional development
+- moral formation
+- identity formation
+- reflective thinking
+- environmental awareness
+- intergenerational meaning
+
+→ [Open Narrative Dataset Index](./dataset-index.md)
+---
+
 ## Developmental Alignment Relevance
 
 These narrative interaction studies may also contribute to future research in:
