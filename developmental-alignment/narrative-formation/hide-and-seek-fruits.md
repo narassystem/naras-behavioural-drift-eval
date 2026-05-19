@@ -1,5 +1,3 @@
-# hide-and-seek-fruits.md
-
 # Hide and Seek Fruits
 
 Discovery Cognition and Object Awareness Study
