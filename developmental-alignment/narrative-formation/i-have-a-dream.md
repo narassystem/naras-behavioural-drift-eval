@@ -1,5 +1,3 @@
-# i-have-a-dream.md
-
 # I Have a Dream
 
 Aspirational Projection and Future Self Formation Study
