@@ -2,7 +2,7 @@
 
 ## Memory Preservation, Intergenerational Meaning, and Legacy Formation Study
 
---
+
 
 ## Original Narrative Context
 
