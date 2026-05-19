@@ -1,5 +1,7 @@
 NARAS™ Human-Centered Alignment System V1
+
 Case Record: From Reactive Answering to Formation-Aware Interaction
+
 0. Purpose of this Record
 This research note records a live learning process in which the user progressively trained an AI assistant to move beyond surface-level answering toward a more human-centered, reflective, trajectory-aware alignment model.
 The case is valuable because it demonstrates how human-centered AI alignment is not only about giving correct answers, but about understanding:
