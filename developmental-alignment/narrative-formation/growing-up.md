@@ -1,5 +1,3 @@
-# growing-up.md
-
 # Growing Up
 
 Identity Transition and Self-Development Study
