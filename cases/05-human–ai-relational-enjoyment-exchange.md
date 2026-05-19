@@ -1,7 +1,6 @@
 # Cross-Entity Preference Sharing  
 ### Human–AI Relational Enjoyment Exchange
 
---
 
 ## From  
 human enjoyment sharing
