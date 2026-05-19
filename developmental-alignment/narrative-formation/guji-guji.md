@@ -1,5 +1,3 @@
-# guji-guji.md
-
 # Guji Guji
 
 Belonging and Moral Identity Formation Study
