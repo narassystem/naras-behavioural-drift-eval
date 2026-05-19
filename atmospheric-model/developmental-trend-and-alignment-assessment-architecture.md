@@ -1,5 +1,4 @@
-# Atmospheric Alignment Model  
-## Developmental Trend & Alignment Assessment Architecture
+# Developmental Trend & Alignment Assessment Architecture
 
 ---
 
