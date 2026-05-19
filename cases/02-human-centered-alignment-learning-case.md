@@ -1,4 +1,4 @@
-NARAS™ Human-Centered Alignment System V1
+# NARAS™ Human-Centered Alignment System V1
 
 Case Record: From Reactive Answering to Formation-Aware Interaction
 
