@@ -2,7 +2,7 @@
 
 ## Emotional Atmosphere and Reflective Awareness Study
 
----
+--
 
 ## Original Narrative Context
 
