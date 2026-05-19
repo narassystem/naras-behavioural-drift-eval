@@ -29,9 +29,6 @@ and collaborative recalibration.
 
 # Research Focus
 
-
-## Research Focus
-
 Cases may include:
 
 - ambiguity interpretation
