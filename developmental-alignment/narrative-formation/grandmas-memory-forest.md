@@ -1,5 +1,3 @@
-# grandmas-memory-forest.md
-
 # Grandma's Memory Forest
 
 Memory Continuity and Emotional Dignity Study
