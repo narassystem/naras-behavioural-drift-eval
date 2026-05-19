@@ -6,14 +6,6 @@ These cases demonstrate how meaning is often formed not only by words, but also 
 
 ---
 
-# Applied Cases
-
-NARAS explores how interaction patterns may gradually shape interpretation, emotional direction, escalation, and behavioural outcomes over time.
-
-These cases demonstrate how meaning is often formed not only by words, but also through timing, ambiguity, emotional state, relationship context, and interaction trajectory.
-
----
-
 # Human–AI Collaboration Micro Notes
 
 Small observations collected during real human-AI collaborative interaction.
