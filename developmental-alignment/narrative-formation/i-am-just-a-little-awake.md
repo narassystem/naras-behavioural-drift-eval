@@ -1,5 +1,3 @@
-# i-am-just-a-little-awake.md
-
 # I Am Just a Little Awake
 
 Attentional Rhythm and Developmental Pacing Study
