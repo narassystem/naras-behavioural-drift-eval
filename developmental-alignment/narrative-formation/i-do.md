@@ -1,5 +1,3 @@
-# i-do.md
-
 # I Do
 
 Attachment, Commitment, and Relational Security Study
