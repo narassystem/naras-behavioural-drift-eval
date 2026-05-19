@@ -1,5 +1,3 @@
-# i-am-an-artist.md
-
 # I Am an Artist
 
 Creative Identity and Emotional Expression Study
