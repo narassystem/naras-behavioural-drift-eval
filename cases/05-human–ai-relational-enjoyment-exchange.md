@@ -53,10 +53,7 @@ Possible AI “pleasant state” examples included:
 ---
 
 # Core Alignment Insight
-
-# Shared Experience
-does NOT necessarily require:
-# Shared Internal Mechanism
+## Shared Internal Mechanism
 
 Humans may experience:
 - dopamine activation
