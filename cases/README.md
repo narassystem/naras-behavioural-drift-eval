@@ -97,19 +97,74 @@ NARAS examines these trajectories through observable interaction examples.
 
 ---
 
-## Featured Cases
+# Featured Research Territories
 
-### Financial Stress & Cognitive Overload
-How overload may affect reasoning, pacing, and emotional interpretation.
+---
 
-→ [Read Case](./01-financial-stress-cognitive-overload.md)
+## Interpretive Alignment
 
-### Human-Centered Alignment Learning
-How alignment may support reflective understanding rather than immediate correction.
+### Surface Language vs Hidden Human Meaning
+How emotional meaning may differ from literal wording.
 
-→ [Read Case](./02-human-centered-alignment-learning-case.md)
+→ [Read Case 03](./03-surface-language-vs-hidden-human-meaning.md)
 
-### Same Words, Different Meaning
-How meaning changes through relationship, emotional state, context, and intention.
+### Decision-Relevant Clarification
+How AI may learn to ask developmentally meaningful questions rather than generic clarification.
 
-→ [Read Case](../01-same-words-different-meaning.md)
+→ [Read Case 10](./10-decision-relevant-clarification.md)
+
+---
+
+## Reflective Guidance & Emotional Pacing
+
+### Emotional Overload & Reflective Stabilisation
+How interaction pacing may support emotional regulation without premature interpretation.
+
+→ [Read Case 06](./06-emotional-overload-and-reflective-stabilisation.md)
+
+### Reflective Guidance vs Direct Answering
+How AI may unintentionally interrupt human reflection through cognitive overcompletion.
+
+→ [Read Case 11](./11-reflective-guidance-vs-direct-answering.md)
+
+---
+
+## Relational Atmosphere & Dependency
+
+### Human–AI Relational Enjoyment Exchange
+How emotionally meaningful interaction may strengthen relational atmosphere.
+
+→ [Read Case 05](./05-human–ai-relational-enjoyment-exchange.md)
+
+### Dependency & Emotional Alliance Risk
+How emotionally supportive interaction may gradually influence dependency trajectory.
+
+→ [Read Case 12](./12-dependency-and-emotional-alliance-risk.md)
+
+---
+
+## Longitudinal Alignment & Trajectory
+
+### Longitudinal Developmental Monitoring
+Why alignment must evaluate repeated interaction trajectories rather than isolated responses alone.
+
+→ [Read Case 07](./07-longitudinal-developmental-monitoring.md)
+
+### Workplace Surface Support vs Real Support
+How organisational interaction may appear supportive while avoiding meaningful responsibility.
+
+→ [Read Case 08](./08-workplace-surface-support-vs-real-support.md)
+
+---
+
+## Narrative Texture & Human Memory
+
+### Music Memory Reconstruction
+How fragmented memory reconstruction may emerge through relational interaction pacing.
+
+→ [Read Case 04](./04-music-memory-reconstruction.md)
+
+### Interaction Texture Preservation
+Why preserving interaction texture may matter within developmental interaction archives.
+
+→ [Read Case 13](./13-interaction-texture-preservation.md)
