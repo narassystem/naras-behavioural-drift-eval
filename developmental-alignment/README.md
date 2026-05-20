@@ -6,7 +6,7 @@ The framework examines alignment not only through response correctness, but thro
 
 ![NARAS Developmental Alignment Interaction Map](./naras-developmental-alignment-interaction-map.png)
 
----
+--
 
 ## Core Developmental Territories
 
