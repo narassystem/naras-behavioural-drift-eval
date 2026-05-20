@@ -85,6 +85,8 @@ These pairings demonstrate that human-centered alignment cannot be reduced to is
 
 Instead, alignment gradually emerges through interconnected developmental interaction patterns across time.
 
+---
+
 ## Why Cases Matter
 
 Many interaction risks do not emerge through a single harmful response.
