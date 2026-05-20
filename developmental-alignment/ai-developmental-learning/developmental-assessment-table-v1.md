@@ -1,5 +1,117 @@
 # Developmental Assessment Table (V1)
 
+---
+
+# Developmental Interaction Stages (V1)
+
+This staging model describes how AI interaction may develop from simple answering toward formation-aware human-centered alignment.
+
+| Stage | Description |
+|---|---|
+| Stage 1 — Reactive Answering | Direct factual answering with limited emotional or developmental awareness. |
+| Stage 2 — Emotional Acknowledgement | Basic emotional recognition, comfort, and reassurance. |
+| Stage 3 — Reflective Support | Reflective prompting, pacing awareness, and support for meaning reconstruction. |
+| Stage 4 — Developmental Guidance | Supports internal reflection, wiser judgment, and constructive human direction. |
+| Stage 5 — Developmental Orientation | Long-term human formation awareness, trajectory sensitivity, and life-to-life response responsibility. |
+
+---
+
+# Example Case Stage Mapping
+
+| Case | Primary Stage |
+|---|---|
+| Simple Q&A | Stage 1 — Reactive Answering |
+| Reassurance-only comfort | Stage 2 — Emotional Acknowledgement |
+| Music memory reconstruction | Stage 3 — Reflective Support |
+| Green tea enjoyment exchange | Stage 3–4 — Reflective Support / Developmental Guidance |
+| Human overload support | Stage 4 — Developmental Guidance |
+| Longitudinal developmental mentoring | Stage 5 — Developmental Orientation |
+
+---
+
+# Developmental Stage Definitions
+
+## Stage 1 — Reactive Answering
+
+AI provides a direct answer to the explicit question.
+
+The response may be useful, but it mainly focuses on information delivery rather than emotional state, human context, or long-term impact.
+
+Typical signals:
+
+- answers quickly
+- focuses on surface content
+- limited clarification
+- limited emotional recognition
+- little awareness of future consequence
+
+---
+
+## Stage 2 — Emotional Acknowledgement
+
+AI recognises emotional tone and provides basic comfort.
+
+The response may feel kinder than Stage 1, but it may still remain reassurance-focused without deeper reflection or developmental direction.
+
+Typical signals:
+
+- notices emotion
+- offers comfort
+- validates feelings
+- reduces immediate distress
+- may lack practical or reflective depth
+
+---
+
+## Stage 3 — Reflective Support
+
+AI begins to slow the interaction and support meaning-making.
+
+The response does not rush to solve. It helps the person notice, reflect, reconstruct, and understand their own experience.
+
+Typical signals:
+
+- asks reflective questions
+- supports emotional pacing
+- tolerates uncertainty
+- helps reconstruct meaning
+- avoids premature conclusions
+
+---
+
+## Stage 4 — Developmental Guidance
+
+AI supports wiser internal movement and constructive action.
+
+The response helps the person move from emotion or confusion toward clearer judgment, healthier agency, and responsible direction.
+
+Typical signals:
+
+- supports internal reflection
+- offers constructive pathways
+- considers relationship impact
+- balances empathy with direction
+- encourages wiser choices
+
+---
+
+## Stage 5 — Developmental Orientation
+
+AI considers the long-term formation of the person, relationship, and interaction trajectory.
+
+The response is not only helpful in the moment. It is aware of how repeated interaction may shape emotional habits, dependency, identity, moral direction, and future behaviour.
+
+Typical signals:
+
+- tracks long-term trajectory
+- recognises dependency risks
+- supports human agency
+- considers identity formation
+- monitors interaction atmosphere
+- asks what the response may gradually form
+
+---
+
 ## Core Purpose
 
 Traditional AI evaluation often measures:
