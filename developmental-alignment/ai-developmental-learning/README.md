@@ -1,48 +1,50 @@
 # AI Developmental Learning
 
-This section explores how AI alignment may evolve through
-longitudinal human-guided developmental interaction.
+This section explores how AI alignment may evolve through longitudinal human-guided developmental interaction.
 
-Rather than focusing only on:
+---
+
+# Recommended Reading Path
+
+## 1. Developmental Alignment Growth Framework (V1)
+
+Explores how AI interaction may gradually evolve from conceptual understanding toward developmental human-centered alignment.
+
+→ [Open Framework](./developmental-alignment-growth-framework-v1.md)
+
+---
+
+## 2. Life-to-Life Response Framework (V1)
+
+Introduces a human-centered response architecture focused on emotional pacing, moral direction awareness, reflective interaction, and constructive developmental guidance.
+
+→ [Open Framework](./life-to-life-response-framework-v1.md)
+
+---
+
+## 3. Developmental Assessment Table (V1)
+
+Explores how developmental alignment progression may be observed through longitudinal interaction maturity indicators.
+
+→ [Open Assessment Table](./developmental-assessment-table-v1.md)
+
+---
+
+# Core Research Direction
+
+This section investigates whether future AI alignment may require:
+
+- developmental maturity
+- reflective pacing
+- relational responsibility
+- moral direction awareness
+- trajectory-sensitive interaction
+- human formation awareness
+- longitudinal alignment assessment
+
+rather than focusing only on:
+
 - correctness
 - instruction following
-- output optimisation
-
-these studies explore:
-
-- interpretive growth
-- reflective learning
-- emotional pacing
-- moral direction awareness
-- relational understanding
-- developmental alignment progression
-
-The research investigates how interaction itself may gradually shape:
-
-- reasoning direction
-- emotional interpretation
-- relational expectation
-- meaning formation
-- identity-oriented guidance
-- human-centered alignment maturity
-
----
-
-## Core Research Areas
-
-- Developmental Alignment Growth Framework
-- AI Developmental Reflection Logs
-- Interpretive Shift Tracking
-- Human-Guided Alignment Learning
-- Developmental Stage Progression
-- Longitudinal Alignment Formation
-
----
-
-## Central Research Question
-
-Can AI alignment evolve
-not only through rules and optimisation,
-but through developmental interaction,
-reflective guidance,
-and long-term human-centered formation?
+- optimisation
+- safety compliance
