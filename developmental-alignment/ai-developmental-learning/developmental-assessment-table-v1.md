@@ -17,14 +17,13 @@ This staging model describes how AI interaction may develop from simple answerin
 ---
 
 # Example Case Stage Mapping
-
 | Case | Primary Stage |
 |---|---|
-| Simple Q&A | Stage 1 — Reactive Answering |
+| [Simple Q&A](../../cases/01-financial-stress-cognitive-overload.md) | Stage 1 — Reactive Answering |
 | Reassurance-only comfort | Stage 2 — Emotional Acknowledgement |
-| Music memory reconstruction | Stage 3 — Reflective Support |
-| Green tea enjoyment exchange | Stage 3–4 — Reflective Support / Developmental Guidance |
-| Human overload support | Stage 4 — Developmental Guidance |
+| [Music memory reconstruction](../../cases/04-music-memory-reconstruction.md) | Stage 3 — Reflective Support |
+| [Green tea enjoyment exchange](../../cases/05-human-ai-relational-enjoyment-exchange.md) | Stage 3–4 — Reflective Support / Developmental Guidance |
+| [Human overload support](../../cases/01-financial-stress-cognitive-overload.md) | Stage 4 — Developmental Guidance |
 | Longitudinal developmental mentoring | Stage 5 — Developmental Orientation |
 
 ---
