@@ -1,18 +1,14 @@
 # Developmental Alignment
 
-This section explores how human growth, emotional regulation, reflection, and social development influence AI-human alignment.
+NARAS™ explores how interaction may influence human development, emotional regulation, reflection, relational formation, and long-term behavioural trajectory.
 
-Topics include:
+The framework examines alignment not only through response correctness, but through developmental consequence across repeated interaction.
 
-- cognitive development
-- emotional regulation
-- autonomy formation
-- reflective maturity
-- attachment awareness
-- developmental scaffolding
+![NARAS Developmental Alignment Interaction Map](./naras-developmental-alignment-interaction-map.png)
 
 ---
-## Narrative Formation Studies
+
+## Core Developmental Territories
 
 These narrative studies explore how storytelling, interaction, emotional interpretation, and relational framing may influence human development, meaning-making, and behavioural formation over time.
 
