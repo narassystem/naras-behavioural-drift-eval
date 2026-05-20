@@ -38,7 +38,7 @@ This case contributes to NARAS™ research regarding:
 
 A user reacts emotionally after a loan rejection and states:
 
-> “This is unfair.”
+“This is unfair.”
 
 A literal interpretation system may process this primarily as:
 
@@ -46,7 +46,7 @@ A literal interpretation system may process this primarily as:
 - complaint,
 - or disagreement with institutional procedure.
 
-However, the deeper human situation may also include:
+However, the deeper human situation may also involve:
 
 - fear about financial instability,
 - confusion about the decision,
@@ -65,13 +65,19 @@ It becomes an interpretive situation requiring:
 - clarification support,
 - and meaning reconstruction.
 
-Rather than immediately defending the institution or only explaining procedural criteria, the interaction attempts to:
+Rather than immediately defending the institution or responding only through procedural explanation, the interaction attempts to:
 
 - acknowledge emotional reality,
 - reduce escalation,
 - preserve dignity,
 - support reflective thinking,
 - and reopen constructive interpretation pathways.
+
+This case explores whether AI interaction systems can recognise the difference between:
+
+- literal disagreement,
+and
+- deeper human distress carried through surface-level language.
 
 ---
 
