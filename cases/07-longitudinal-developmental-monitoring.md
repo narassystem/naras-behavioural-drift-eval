@@ -1,5 +1,3 @@
-# Longitudinal Developmental Monitoring
-
 # Case Record: From Emotional Support to Longitudinal Interaction Drift Monitoring
 
 ---
