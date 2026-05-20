@@ -266,8 +266,7 @@ This interaction explores:
 
 Rather than forcing immediate problem-solving, the interaction gradually supported reflective reconstruction through relational pacing and interpretive guidance.
 
-→ Related Framework:
-../../developmental-alignment/ai-developmental-learning/life-to-life-response-framework-v1.md
+→ [Related Framework](../developmental-alignment/ai-developmental-learning/life-to-life-response-framework-v1.md)
 
 ---
 
@@ -282,8 +281,7 @@ Observable developmental indicators present in this interaction include:
 - memory-linked emotional awareness
 - non-linear contextual reconstruction
 
-→ Related Assessment:
-../../developmental-alignment/ai-developmental-learning/developmental-assessment-table-v1.md
+→ [Related Assessment](../developmental-alignment/ai-developmental-learning/developmental-assessment-table-v1.md)
 
 ---
 
@@ -302,5 +300,4 @@ Human memory often forms through:
 
 This case therefore contributes to longitudinal narrative interaction research.
 
-→ Related Narrative Studies:
-../../developmental-alignment/narrative-formation/README.md
+→ [Related Narrative Studies](../developmental-alignment/narrative-formation/README.md)
