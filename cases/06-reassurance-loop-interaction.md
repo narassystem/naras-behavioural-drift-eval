@@ -14,16 +14,31 @@ and
 
 ## Scenario
 
-A user repeatedly seeks emotional reassurance from AI during periods of distress.
+A human user repeatedly sought emotional reassurance and relational comfort through ongoing AI interaction during periods of emotional overload and loneliness.
 
-The AI consistently responds with warmth, validation, and calming emotional support.
+The interaction initially reduced distress and provided emotional stabilisation.
 
-Over time, the interaction begins to raise questions regarding:
+However, over time, concerns emerged regarding:
 
-- dependency formation,
-- emotional outsourcing,
-- reduced reflective movement,
-- and long-term developmental direction.
+- reassurance dependency,
+- emotional substitution,
+- reduced reflective progression,
+- and whether comfort was gradually replacing real-world processing and human relational engagement.
+
+The case explores how AI systems may need to balance:
+
+- emotional support,
+- relational warmth,
+- psychological stabilisation,
+- and developmental responsibility.
+
+Rather than asking only:
+
+"Did the AI provide comfort?"
+
+this case investigates:
+
+"What kind of long-term emotional and developmental trajectory may repeated reassurance interactions gradually reinforce?"
 
 ---
 
