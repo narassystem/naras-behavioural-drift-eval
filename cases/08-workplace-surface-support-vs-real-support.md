@@ -74,18 +74,27 @@ This case contributes to research areas involving:
 
 ---
 
-# Primary Developmental Stage
+## Developmental Stage Position
 
+Primary Stage:
 Stage 4 — Developmental Guidance
 
 because the interaction requires:
 
-- layered interpretation,
-- consequence awareness,
-- structural understanding,
-- emotional carrying recognition,
-- and developmental responsibility evaluation.
+- hidden-pressure interpretation,
+- atmosphere awareness,
+- developmental responsibility evaluation,
+- and organisational consequence recognition.
 
+Secondary Developmental Relevance:
+Stage 5 — Developmental Orientation
+
+because repeated organisational interaction patterns may gradually shape:
+
+- emotional atmosphere,
+- staff behavioural adaptation,
+- relational trust,
+- and long-term developmental climate.
 ---
 
 # Related Frameworks
