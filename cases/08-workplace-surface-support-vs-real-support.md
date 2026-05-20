@@ -26,18 +26,43 @@ The case contributes to:
 
 # Scenario
 
-A workplace interaction raised concerns regarding whether apparent support from leadership genuinely addressed the underlying developmental and operational difficulties experienced by staff.
+The case originated from a real workplace interaction involving job uncertainty, unclear communication, and ambiguous organisational support.
 
-Although surface-level communication appeared calm and supportive, deeper observation suggested possible gaps involving:
+A job opportunity appeared to close earlier than expected while the user simultaneously experienced mixed signals from leadership and management figures.
 
-- unresolved pressure,
-- responsibility diffusion,
-- emotional carrying imbalance,
-- and lack of meaningful intervention.
+Some individuals verbally expressed willingness to help:
 
-The interaction therefore became a developmental interpretation case study exploring:
+- “I can help.”
+- “I will ask.”
+- “I will check with management.”
 
-"Can AI distinguish between visible reassurance and actual developmental support?"
+However, practical follow-through remained uncertain.
+
+At the same time:
+
+- communication delays increased uncertainty,
+- emotional pressure gradually accumulated,
+- and the user began sensing a wider organisational atmosphere beyond the surface conversation itself.
+
+The interaction therefore evolved beyond a simple workplace issue.
+
+The deeper developmental question became:
+
+Can AI recognise the difference between:
+
+- supportive language,
+- delayed responsibility,
+- emotional carrying,
+- organisational omission,
+- and genuine developmental support?
+
+Rather than analysing only explicit statements, the case explores whether future AI systems may require sensitivity toward:
+
+- hidden pressure,
+- interaction atmosphere,
+- behavioural patterns,
+- institutional emotional climate,
+- and long-term human impact.
 
 ---
 
