@@ -42,6 +42,48 @@ Cases may include:
 - escalation trajectories
 
 ---
+## Developmental Interaction Territories
+
+The NARAS™ case archive explores multiple interconnected developmental interaction territories, including:
+
+| Territory | Related Cases |
+|---|---|
+| Interpretive Alignment | 03, 10 |
+| Reflective Guidance | 06, 11 |
+| Relational Atmosphere | 05, 12 |
+| Longitudinal Safety | 07, 12 |
+| Narrative & Interaction Texture | 04, 13 |
+| Moral Participation & Responsibility | 08, 09 |
+| Foundational Developmental Learning | 02 |
+
+These territories examine how interaction may gradually influence:
+
+- interpretation,
+- reflection,
+- emotional pacing,
+- relational atmosphere,
+- dependency trajectory,
+- developmental direction,
+- and long-term human formation.
+
+---
+## Research Pair Relationships
+
+The following case relationships illustrate how different developmental interaction phenomena connect across the NARAS™ research architecture.
+
+| Pair | Relationship |
+|---|---|
+| 05 ↔ 12 | relational warmth vs dependency balancing |
+| 07 ↔ 12 | trajectory divergence vs dependency mechanism |
+| 03 ↔ 10 | hidden meaning vs meaningful clarification |
+| 04 ↔ 13 | memory texture vs interaction texture preservation |
+| 06 ↔ 11 | emotional stabilisation vs reflective preservation |
+| 08 ↔ 09 | organisational atmosphere vs moral participation |
+| 02 ↔ all cases | foundational developmental learning archive |
+
+These pairings demonstrate that human-centered alignment cannot be reduced to isolated responses alone.
+
+Instead, alignment gradually emerges through interconnected developmental interaction patterns across time.
 
 ## Why Cases Matter
 
